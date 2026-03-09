@@ -33,3 +33,6 @@ pytest_embedded_log/
 *.gcno
 coverage.info
 coverage_report/
+
+# Editor/Tool cache
+.cache/
